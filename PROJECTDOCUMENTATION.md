@@ -4,7 +4,7 @@
 
 This repository contains a simple, responsive promotional website for Nairobi National Park. The site is built using HTML, CSS, and JavaScript, and consists of four main pages:
 
-- **Dashboard/Main Page (nnp_main.html)**
+- **Dashboard/Main Page (index.html)**
 - **Home Page (nnp_home.html)**
 - **About Page (nnp_about.html)**
 - **Contacts Page (nnp_contacts.html)**
@@ -13,14 +13,14 @@ All pages share a consistent design and navigation, and are styled via a central
 
 ---
 ## Live Website URL
-
+https://nairobi-national-park-promotional-website.vercel.app/index.html
 
 ## File Structure
 
 ```
 /NNP project
 │
-├── nnp_main.html
+├── index.html
 ├── nnp_home.html
 ├── nnp_about.html
 ├── nnp_contacts.html
@@ -33,7 +33,7 @@ All pages share a consistent design and navigation, and are styled via a central
 
 ## Page Descriptions
 
-### 1. nnp_main.html (Dashboard)
+### 1. index.html (Dashboard)
 - Displays a header and a row of animal images.
 - Provides navigation buttons to Home, About, and Contacts pages.
 - Uses flexbox for button and image layout.
@@ -86,7 +86,7 @@ All pages share a consistent design and navigation, and are styled via a central
 
 ## How to Use
 
-1. **Open nnp_main.html** in your browser to start.
+1. **Open the live website URL** in your browser to start.
 2. **Navigate** using the provided buttons.
 3. **Hover over images** to see the animation effect.
 4. **Modify content** by editing the respective HTML files.
